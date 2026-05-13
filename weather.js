@@ -1,7 +1,7 @@
 let city = document.getElementById("cityInput");
 let btn = document.getElementById("searchBtn");
 
-let API_KEY  = "d0e157bf5c93a1aa8df1d899499ec614"
+let API_KEY = "YOUR API KEY"; // YOU CAN ADD YOUR API KEY
 
 async function getweather() {
     try {
